@@ -1,5 +1,5 @@
 ## Hi! I'm Samila :)
-Data Science and AI student at Universidade Federal da Paraiba. Experience with Python 3 and currently learning back-end focused on Node.js at {reprograma}.
+Data Science and AI undergraduate student at Universidade Federal da Paraiba. Experience with Python 3 and currently learning back-end focused on Node.js at {reprograma}.
  <div>
   <a href="https://github.com/samgrs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samgrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
