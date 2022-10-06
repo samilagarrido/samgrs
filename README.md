@@ -1,5 +1,5 @@
 ## Hi! I'm Samila :)
-Back-End Developer Jr by {reprograma} and Data Science and AI undergraduate student at Universidade Federal da Paraiba. Experience with JavaScript and Python3.
+Back-End Developer Jr by {reprograma}, Data Science and AI undergraduate student at Universidade Federal da Paraiba. Experience with JavaScript and Python3.
  <div>
   <a href="https://github.com/samgrs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samgrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
