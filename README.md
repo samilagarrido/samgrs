@@ -1,9 +1,9 @@
 ## Hi! I'm Samila :)
 Back-End Developer Jr by {reprograma}, Data Science and AI undergraduate student at Universidade Federal da Paraiba. Experience with JavaScript and Python3.
  <div>
-  <a href="https://github.com/samgrs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samgrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samgrs&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/samilagarrido">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samilagarrido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samilagarrido&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,11 +18,11 @@ Back-End Developer Jr by {reprograma}, Data Science and AI undergraduate student
   ##
  
 <div> 
-  <a href="https://instagram.com/samgrs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/samilagarrido/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="mailto:samilagrodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/samila-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
-  ![Snake animation](https://github.com/samgrs/samgrs/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/samilagarrido/samilagarrido/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
