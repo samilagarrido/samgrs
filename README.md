@@ -1,5 +1,8 @@
 ## Hi! I'm Samila :)
-Back-End Developer Jr by {reprograma}, Data Science and AI undergraduate student at Universidade Federal da Paraiba. Experience with JavaScript and Python3.
+Data Science and AI student at Universidade Federal da Paraíba. 
+Back-End Developer Jr by {reprograma}. 
+Development and technological innovation researcher at MGITECH.
+Has experience with Python3, JavaScript and C programming languages.
  <div>
   <a href="https://github.com/samilagarrido">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samilagarrido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
