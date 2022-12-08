@@ -23,7 +23,7 @@ Has experience with Python3, JavaScript and C programming languages.
 <div> 
   <a href="https://instagram.com/samgrs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="mailto:samilagrodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/samila-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/samila-garrido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
   ![Snake animation](https://github.com/samilagarrido/samilagarrido/blob/output/github-contribution-grid-snake.svg)
  
