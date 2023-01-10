@@ -28,4 +28,8 @@ Has experience with Python3, JavaScript and C programming languages.
   ![Snake animation](https://github.com/samilagarrido/samilagarrido/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/samilagarrido/count.svg" />
+</p>
 
