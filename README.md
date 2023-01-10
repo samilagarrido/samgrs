@@ -5,7 +5,7 @@ Development and technological innovation researcher at MGITECH.
 Has experience with Python3, JavaScript and C programming languages.
  <div>
   <a href="https://github.com/samilagarrido">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samilagarrido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samilagarrido&count_private=true&show_icons=true&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samilagarrido&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
